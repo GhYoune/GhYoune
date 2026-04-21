@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Profile Views Counter — replace YOUR_USERNAME with your actual GitHub username -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GhYoune&color=0e75b6&style=flat&label=Profile+Views)
 
@@ -46,6 +47,7 @@ Turning ideas into clean, fast, and scalable web apps
 
 <div align="center">
 
+<!-- Replace YOUR_USERNAME in all three links below -->
 
 ![Younse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhYoune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -73,7 +75,7 @@ Turning ideas into clean, fast, and scalable web apps
 Got a project in mind or want to work together?  
 Feel free to reach out — I'm always open to new opportunities.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younes.dev@ynslab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gherbi/)
 
 </div>
