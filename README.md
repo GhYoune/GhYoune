@@ -49,7 +49,7 @@ Turning ideas into clean, fast, and scalable web apps
 
 <!-- Replace YOUR_USERNAME in all three links below -->
 
-![Younse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhYoune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!--![Younse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhYoune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhYoune&layout=compact&theme=tokyonight&hide_border=true)
 
