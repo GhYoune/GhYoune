@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Profile Views Counter — replace YOUR_USERNAME with your actual GitHub username -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=GhYoune&color=0e75b6&style=flat&label=Profile+Views)
 
 # Hey, I'm Younse 👋
 
 **Frontend Engineer** · 4 years of experience  
 Turning ideas into clean, fast, and scalable web apps
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ynslab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gherbi/)
 
 </div>
 
@@ -47,13 +46,12 @@ Turning ideas into clean, fast, and scalable web apps
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME in all three links below -->
 
-![Younse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Younse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhYoune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhYoune&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=GhYoune&theme=tokyonight&hide_border=true)
 
 </div>
 
