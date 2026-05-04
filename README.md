@@ -45,7 +45,7 @@ Turning ideas into clean, fast, and scalable web apps
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center w-full">
 
 <!-- Replace YOUR_USERNAME in all three links below -->
 
@@ -53,7 +53,6 @@ Turning ideas into clean, fast, and scalable web apps
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhYoune&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GhYoune&theme=tokyonight&hide_border=true)
 
 </div>
 
