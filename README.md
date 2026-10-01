@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GhYoune&color=0e75b6&style=flat&label=Profile+Views)
 
-# Hey, I'm Younse 👋
+# Hey,
 
 **Frontend Engineer** · 4 years of experience  
 Turning ideas into clean, fast, and scalable web apps
