@@ -1,4 +1,4 @@
-# Younes
+# Younes Gherbi
 
 Frontend engineer, 4 years in. I mostly build business software: fintech dashboards, payment flows, ERPs and CRMs. That means lots of forms, tables, permissions and edge cases, and I enjoy making that kind of complexity feel simple to use.
 
@@ -17,6 +17,8 @@ I work mostly in **Vue/Nuxt** and **React/Next**, with **TypeScript** everywhere
 
 ### Elsewhere
 
-[ynslab.com](https://www.ynslab.com) · [LinkedIn](https://www.linkedin.com/in/gherbi/) · [younes.dev@ynslab.com](mailto:younes.dev@ynslab.com)
+[![Website](https://img.shields.io/badge/ynslab.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ynslab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gherbi/)
+[![Email](https://img.shields.io/badge/younes.dev@ynslab.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:younes.dev@ynslab.com)
 
 If you're building something in fintech or business tooling and need someone who can handle the frontend (and the API behind it), I'm happy to talk.
